@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>19/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>São pessoas persistentes, impacientes, objetios, sóciaveis, determinados, impuslivos, induviduais...</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Amam conforto e sabem o que é bom nessa vida.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>21/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>São as pessoas mais divertidas e animadas...</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>São as pessoas mais sensiveis, românticas e sonhadoras.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>São as pessoas mais brincalhonas exuberate e criativas...</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Pessoas inteligêntes, detalhistas, metodicas...</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>São pessoasdiplomáticas, justiceiras, pacíficas e sociaveis...</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>São as pessoas que mais tem a capacidade de se reiventar.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sargitário</signoNome>
+        <descricao>São as pessoas mais espontaneas e positivas.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>19/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>São pessoas coerentes disciplinadas, serias e responsaveis.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>São as pessoas mais inovadoras, com a criatividade sempre em alta.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>São as pessoas sensiveis, sonhadoras e empáticas, calma, pacientes, ituitivas, românticas, generosas, misticas...</descricao>
+    </signo>
+</signos>
